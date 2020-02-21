@@ -2,7 +2,9 @@
 
 Die piettoon_proe repo op GitHub is bedoel om te leer hoe om Python projekte te bou;
 op die "master branch" word moontlike projekte dus voorgestel, asook algemene besprekings oor
-die bou van projekte aangetref; die "master branch" verdeel dan in "web_toep", "GUI_toep", "cmd_toep" en "mobi_toep" branches 
+die bou van projekte aangetref; die "master branch" verdeel dan in "web_toep", "GUI_toep", "cmd_toep" en "mobi_toep" branches;
+op die "web_toep" branch word algemene besprekings oor web apps gehuisves en die "web_toep" branch verdeel dan verder in
+n "Django" branch en n "Flask" branch
 
 
 
